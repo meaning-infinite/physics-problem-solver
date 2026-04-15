@@ -1,6 +1,11 @@
 # physics-problem-solver
 
 <p align="center">
+  <h1 align="center"> <strong>物理本科生解题助手.skill</strong> </h1>
+  <p align="center"> 步骤清晰 · 逻辑清晰 · 解释简洁 </p>
+</p>
+
+<p align="center">
   <a href="#特性">特性</a> •
   <a href="#安装">安装</a> •
   <a href="#使用示例">使用示例</a> •
